@@ -1,3 +1,5 @@
+# Simple web stack
+
 ![Simple Web Stack](images/Simple_web_stack.png)
 
 ## How it works
