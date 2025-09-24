@@ -31,3 +31,15 @@ Répartiteur de charge qui distribue le trafic entre plusieurs serveurs pour opt
 Surveillance des systèmes et services pour détecter les problèmes rapidement. Concepts de logs, alertes, métriques et outils de monitoring pour assurer la stabilité et la performance d’une infrastructure.
 
 ---
+
+## Concepts avancés
+
+
+- **Database** : notion et rôle des bases de données.
+- **Web server vs App server** : différences et fonctions respectives.
+- **DNS record types** : types d’enregistrements DNS (A, AAAA, CNAME, MX, etc.).
+- **Single point of failure (SPOF)** : points critiques et risques.
+- **Avoid downtime** : stratégies pour déployer du code sans interruption.
+- **High availability cluster** : clusters haute disponibilité et modes active-active / active-passive.
+- **HTTPS** : sécurisation des communications web.
+- **Firewall** : rôle et fonctionnement d’un pare-feu.
